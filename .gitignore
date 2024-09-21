@@ -35,6 +35,7 @@ build/
 .vscode/
 
 img/*
+
 src/main/resources/config.properties
 
 ### IntelliJ IDEA ###
