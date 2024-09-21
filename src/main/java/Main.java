@@ -27,7 +27,6 @@ public class Main {
             System.err.println("ОШИБКА: Файл config.properties отсуствует.");
         }
 
-        //NasaTelegramBot bot = new NasaTelegramBot("oy_nasa_image_bot", "8104762105:AAFwNHZ5jJ80gQH6UBWhDjgZBr53JzbBiyk");
         NasaTelegramBot bot = new NasaTelegramBot(bot_name, bot_token, nasa_apikey);
     }
 }

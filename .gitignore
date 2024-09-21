@@ -34,5 +34,11 @@ build/
 ### VS Code ###
 .vscode/
 
+img/*
+### src/main/resourcesS
+
+### IntelliJ IDEA ###
+.idea
+
 ### Mac OS ###
 .DS_Store
