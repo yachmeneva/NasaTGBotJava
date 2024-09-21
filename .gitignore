@@ -36,7 +36,7 @@ build/
 
 img/*
 
-###src/main/resources/config.properties
+src/main/resources/config.properties
 
 ### IntelliJ IDEA ###
 .idea
